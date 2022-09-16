@@ -1,2 +1,12 @@
 # pass-manager-2.0.1
-pass manager
+-save pass
+
+-rendom file name
+
+not working try istalling:
+
+pip install uuid
+
+pip install tkinter 
+
+// is install by defalt
