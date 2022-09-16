@@ -1,4 +1,3 @@
-# if you editing this and de copailing it u cud break somting
 import tkinter as tk
 from tkinter import Canvas
 from tkinter import *
