@@ -7,7 +7,7 @@ import uuid
 import sys
 
 main = tk.Tk()
-main.title("Password Manager 1.9")
+main.title("Password Manager 2.0.1")
 canvas = Canvas(main, width=650, height=450)
 canvas.pack()
 main.resizable(False,False)
